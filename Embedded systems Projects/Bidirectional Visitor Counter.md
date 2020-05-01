@@ -1,4 +1,4 @@
-### Project 16 - BIDRECTIONAL VISITOR COUNTER
+### Project 16 - BIDIRECTIONAL VISITOR COUNTER
 
 __Description__ -
 
