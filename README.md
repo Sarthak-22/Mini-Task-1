@@ -5,10 +5,10 @@ List of Projects -
 
 __Automation system projects__ 
 
-      1. [Automated systems for car parking](Automation Systems Projects/Automated systems for car parking.md)
-      2. [RF-based multiple device control](Automation Systems Projects/RF-based multiple device control.md)
-      3. [Rpi motion detector with photo capture](Automation Systems Projects/Rpi motion detector with photo capture.md)
-      4. [Web based hime automation system](Automation Systems Projects/Web based Rpi home automation system.md)
+      1. [Automated systems for car parking](https://github.com/Sarthak-22/Mini-Task-1/blob/master/Automation%20Systems%20Projects/Automated%20systems%20for%20car%20parking.md)
+      2. [RF-based multiple device control](https://github.com/Sarthak-22/Mini-Task-1/blob/master/Automation%20Systems%20Projects/RF-based%20multiple%20device%20control.md)
+      3. [Rpi motion detector with photo capture](https://github.com/Sarthak-22/Mini-Task-1/blob/master/Automation%20Systems%20Projects/Rpi%20motion%20detector%20with%20photo%20capture.md)
+      4. [Web based hime automation system](https://github.com/Sarthak-22/Mini-Task-1/blob/master/Automation%20Systems%20Projects/Web%20based%20Rpi%20home%20automation%20system.md)
       5.
       
       
